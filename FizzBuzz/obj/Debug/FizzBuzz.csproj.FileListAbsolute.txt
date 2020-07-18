@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\ChallengeQuestions\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\student\source\repos\ChallengeQuestions\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\student\source\repos\ChallengeQuestions\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\student\source\repos\ChallengeQuestions\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ChallengeQuestions\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\student\source\repos\ChallengeQuestions\FizzBuzz\obj\Debug\FizzBuzz.pdb

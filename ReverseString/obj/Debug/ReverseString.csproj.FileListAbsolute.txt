@@ -1,0 +1,7 @@
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\obj\Debug\ReverseString.csprojAssemblyReference.cache
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\student\source\repos\ChallengeQuestions\ReverseString\obj\Debug\ReverseString.pdb
